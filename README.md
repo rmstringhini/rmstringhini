@@ -10,4 +10,4 @@ PhD in Computer Science
 
 # About me
 
-I am a Machine Learning Scientist with a PhD in Computer Science specializing in Computer Vision and Deep Learning. My work focuses on building robust AI methods for omnidirectional vision, medical imaging, and computational pathology. I enjoy bridging research and software engineering by developing reproducible, deployable, and well-documented machine learning systems.
+I am a Machine Learning Scientist with a PhD in Computer Science specializing in Computer Vision and Deep Learning. My work focuses on building robust ML/AI methods for computer vision, medical imaging, and computational pathology. I enjoy bridging research and software engineering by developing reproducible, deployable, and well-documented machine learning systems.
