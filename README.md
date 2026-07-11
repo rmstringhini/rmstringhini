@@ -18,4 +18,4 @@ I am a Machine Learning Scientist with a PhD in Computer Science specializing in
 - Computer Vision
 - Medical Image Analysis
 - Computational Pathology
-- Vision Foundation Models
+- Applied Research
