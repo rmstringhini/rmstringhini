@@ -1,6 +1,6 @@
 # Romulo Stringhini
 
-### Machine Learning Researcher
+### Machine Learning Scientist
 
 Building reliable AI systems for Computer Vision, Medical Imaging, and Computational Pathology.
 
