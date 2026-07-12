@@ -8,9 +8,6 @@ Building reliable AI systems for Computer Vision, Medical Imaging, and Computati
 
 PhD in Computer Science
 
-[Google Scholar](https://scholar.google.com/citations?user=8eVrsoIAAAAJ&hl=pt-BR&oi=ao)
-[LinkedIn](https://www.linkedin.com/in/rmstringhini/)
-
 # About me
 
 I am a Machine Learning Scientist with a PhD in Computer Science specializing in Computer Vision and Deep Learning. My work focuses on building robust ML/AI methods for computer vision, medical imaging, and computational pathology. I enjoy bridging research and software engineering by developing reproducible, deployable, and well-documented machine learning systems.
