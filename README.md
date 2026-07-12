@@ -2,11 +2,14 @@
 
 ### Machine Learning Scientist
 
-Building reliable AI systems for Computer Vision, Medical Imaging, and Computational Pathology.
+Building ML/AI systems for Computer Vision, Medical Imaging, and Computational Pathology.
 
 📍 Montreal, Canada
 
 PhD in Computer Science
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmstringhini/)
+
 
 # About me
 
