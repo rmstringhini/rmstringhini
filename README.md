@@ -26,7 +26,9 @@ In construction
 
 ## Publications
 
-[Adapting Convolutions for Effective Omnidirectional Image Processing](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5654) - Journal of the Brazilian Computer Society (JBCS) 2026
+**Adapting Convolutions for Effective Omnidirectional Image Processing**
+*Journal of the Brazilian Computer Society (JBCS) 2026*
+[Paper](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5654) 
 
 [Anchor-Based Gravity Alignment for Panoramas](https://ieeexplore.ieee.org/abstract/document/11084672) - IEEE International Conference on Image Processing (ICIP) 2025
 
