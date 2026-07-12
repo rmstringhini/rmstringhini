@@ -19,3 +19,15 @@ I am a Machine Learning Scientist with a PhD in Computer Science specializing in
 - Medical Image Analysis
 - Computational Pathology
 - Applied Research
+
+## Featured projects
+
+In construction
+
+## Publications
+
+
+
+[A Mathematical Morphology-Based Filter for Noise Reduction and Detail Preservation in Low-Dose Dental CT Images](https://books.google.ca/books?id=m--9DwAAQBAJ&lpg=PA253&ots=qhvZAH7grn&dq=info%3ATlQnCjgXE9IJ%3Ascholar.google.com&lr&pg=PA253#v=onepage&q&f=false) - MEDINFO 2019
+
+
