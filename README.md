@@ -7,6 +7,8 @@ Building reliable AI systems for Computer Vision, Medical Imaging, and Computati
 📍 Montreal, Canada
 
 PhD in Computer Science
+(Google Scholar)[https://scholar.google.com/citations?user=8eVrsoIAAAAJ&hl=pt-BR&oi=ao] 
+(LinkedIn)[https://www.linkedin.com/in/rmstringhini/]
 
 # About me
 
