@@ -2,7 +2,7 @@
 
 ### Machine Learning Scientist | Computer Vision | Medical Image Analysis | Applied Research
 
-Building ML/AI systems for Computer Vision, Medical Imaging, and Computational Pathology.
+Building ML/AI systems for Computer Vision, Medical Imaging, Data Analysis, and Computational Pathology.
 
 📍 Montreal, Canada
 
