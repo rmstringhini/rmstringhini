@@ -9,7 +9,7 @@ Building ML/AI systems for Computer Vision, Medical Imaging, and Computational P
 PhD in Computer Science - Federal University of Rio Grande do Sul (UFRGS) - RS, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmstringhini/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=search_authors&mauthors=romulo+marconato+stringhini&hl=pt-BR&oi=ao)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=pt-BR&user=8eVrsoIAAAAJ)
 [![Resume](https://img.shields.io/badge/Resume-PDF-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1oP4O9Qp1UB9fGaMDPA7aNw_e7vOpunZE/view?usp=sharing)
 
 # About me
