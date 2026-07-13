@@ -1,4 +1,4 @@
-# Romulo Stringhini
+# Romulo Stringhini, PhD
 
 ### Machine Learning Scientist
 
