@@ -1,8 +1,6 @@
 # Romulo Stringhini, PhD
 
-### Machine Learning Scientist | Computer Vision | Medical Image Analysis | Applied Research
-
-Building ML/AI systems for Computer Vision, Medical Imaging, Data Analysis, and Computational Pathology.
+### Applied AI Researcher at GENAIZ
 
 📍 Montreal, Canada
 
@@ -14,7 +12,7 @@ PhD in Computer Science - Federal University of Rio Grande do Sul (UFRGS) - RS, 
 
 # About me
 
-Machine Learning Scientist with a PhD in Computer Science (Machine Learning and Computer Vision) and 6+ years developing innovative solutions for computer vision, representation learning, data analysis, and medical image analysis. I enjoy bridging research and software engineering by developing reproducible, deployable, and well-documented machine learning systems.
+Applied AI Researcher with a PhD in Computer Science, specializing in Machine Learning and Computer Vision. My work focuses on developing and applying advanced machine learning methods to address challenging real-world problems, with expertise spanning deep learning, computer vision, representation learning, image processing, 3D vision, and medical imaging. I enjoy bridging research and software engineering by developing reproducible, deployable, and well-documented machine learning systems.
 
 ## Topics of interests
 
